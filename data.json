@@ -1,5 +1,7 @@
 {
-    "feeds": [],
+    "feeds": [
+        "https://www.bloter.net/rss/allArticle.xml"
+    ],
     "keywords": [
         "금리",
         "FOMC",
