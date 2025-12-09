@@ -8,5 +8,16 @@
         "FRB"
     ],
     "visitors": 3,
-    "reports": {}
+    "reports": {},
+    "collected_news": {
+        "2025-12-09": [
+            {
+                "title": "구글코리아 \"올해 한국인을 움직인 검색어는 '대선·챗GPT·케데헌'\" - 글로벌경제신문",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sd2c2a21kdXpQOEltT2daWFE4SzE2WXZaWXNKSDRqYndVcUM1MHNDOGt1enByZlpoNFRBUGk5aWxabTBMWmh4U19MamdaaXJtOUJUNkZuUW1CWTFfalNLUVBWb1lvXzJuYy0yM9IBcEFVX3lxTE9GOEZKcTZSY2RiZW5rb2JERHNaR09FMHlQVmRSTXFzb0thZ0RRU2MtM0FaRW9wV2FhRm1GaVN0aUE4cjN6SUQzNE80elQxcmExTlAtaUR5T3pYeXNxUEpySXM4V0VObFRfSEVFUWpVdkE?oc=5",
+                "published": "Thu, 04 Dec 2025 22:58:35 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1sd2c2a21kdXpQOEltT2daWFE4SzE2WXZaWXNKSDRqYndVcUM1MHNDOGt1enByZlpoNFRBUGk5aWxabTBMWmh4U19MamdaaXJtOUJUNkZuUW1CWTFfalNLUVBWb1lvXzJuYy0yM9IBcEFVX3lxTE9GOEZKcTZSY2RiZW5rb2JERHNaR09FMHlQVmRSTXFzb0thZ0RRU2MtM0FaRW9wV2FhRm1GaVN0aUE4cjN6SUQzNE80elQxcmExTlAtaUR5T3pYeXNxUEpySXM4V0VObFRfSEVFUWpVdkE?oc=5\" target=\"_blank\">구글코리아 \"올해 한국인을 움직인 검색어는 '대선·챗GPT·케데헌'\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">글로벌경제신문</font>"
+            }
+        ],
+        "2025-12-09_collected_at": "2025-12-09 06:51:53.288440"
+    }
 }
