@@ -1,7 +1,5 @@
 {
-    "feeds": [
-        "https://news.google.com/rss/search?q=finance&hl=ko&gl=KR&ceid=KR:ko"
-    ],
+    "feeds": [],
     "keywords": [
         "주식",
         "금리",
