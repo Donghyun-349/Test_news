@@ -2,11 +2,11 @@
     "feeds": [
         "https://news.google.com/rss/search?q=finance&hl=ko&gl=KR&ceid=KR:ko"
     ],
-    "keywords": ["주식", "금리", "삼성전자"],
-    "visitors": 0,
+    "keywords": [
+        "주식",
+        "금리",
+        "삼성전자"
+    ],
+    "visitors": 1,
     "reports": {}
 }
-
-
-
-
