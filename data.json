@@ -1,5 +1,7 @@
 {
-    "feeds": [],
+    "feeds": [
+        "https://news.google.com/rss/search?q={검색어}&hl=ko&gl=KR&ceid=KR:ko"
+    ],
     "keywords": [
         "금리",
         "FOMC",
